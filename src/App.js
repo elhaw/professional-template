@@ -1,9 +1,11 @@
-import Nav from "./Components/Nav/Nav";
+// import Nav from "./Components/Nav/Nav";
+
+import Home from "./Components/Home/Home";
 
 function App() {
   return (
     <>
-      <Nav />
+      <Home/>
     </>
   );
 }
