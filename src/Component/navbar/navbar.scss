@@ -1,0 +1,40 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: #232536;
+    height: 80px;
+    .left {
+      color: #ffffff;
+      padding-left: 80px;
+      font-size: 28px;
+      font-weight: 600;
+      padding-bottom: 13px;
+      span{
+          .left2{
+      font-size: 33px;
+              
+          }
+      }
+    }
+    .right {
+      padding-right: 100px;
+  
+      span {
+        padding: 20px;
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 300;
+        cursor: pointer;
+      }
+      button {
+        width: 179px;
+        height: 56px;
+        background-color: #ffffff;
+        color: light;
+        font-size: 19px;
+        font-weight: bold;
+      }
+    }
+  }
