@@ -19,7 +19,7 @@ function Navbar() {
         <Link to="/" style={{ textDecoration: "none" }}>
           <span>Conact Us</span>
         </Link>
-        <button type="Subscribe">Subscribe</button>
+        <button type="button">Subscribe</button>
       </div>
     </div>
   );
